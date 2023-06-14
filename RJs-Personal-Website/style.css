@@ -1,0 +1,58 @@
+/* This file is used to add style onto your website */
+img {
+  border-radius: 8px;
+}
+h1 {
+  /* This: */
+  margin: 40px 0px 5px;
+  /* Is the same as: */
+  text-align: center;
+  float: center;
+}
+#tag {
+  text-align: center;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+  font-size: 120%;
+}
+
+main {
+  background: #ADD8E6;
+  ;
+}
+
+img2 {
+  border-radius: 30px;
+}
+
+#github {
+  height: 10vh;
+  width: 10vw;
+  border-radius: 50px;
+}
+
+#linkedinIMG {
+  height: 10vh;
+  width: 10vw;
+  border-radius: 50px;
+}
+
+
+footer {
+  background-color: #ADD8E6;
+}
+
+#headshot {
+  float: center;
+}
+#calculator{
+  height: 50vh;
+  width: 50vw;
+
+}
+#myBtn{
+  height: 50vh;
+  width: 50vw;
+}
